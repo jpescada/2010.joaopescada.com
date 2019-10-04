@@ -1,0 +1,10 @@
+# $Id: robots.txt, v1.0 2010/09/20 01:13 Joao Pescada $
+#
+# domain.com <URL:http://www.joaopescada.com>
+# ------------------------------------------------------
+User-agent: *
+Disallow: /app/
+Disallow: /templates/
+Disallow: /_temp/
+
+Sitemap: http://joaopescada.com/sitemap.xml

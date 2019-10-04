@@ -1,0 +1,20 @@
+title: Miguel Praia (.com)
+-
+date: 2003-2006
+-
+meta_description: A few iterations I've made throughout the years for the website of Miguel Praia.
+-
+page_description: A few iterations I've made throughout the years for the website of Miguel Praia.
+-
+content: 
+A few iterations I've made throughout the years for the website of <a href="http://www.miguel-praia.com/" title="Open Miguel Praia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/miguel-praia.com']);">Miguel Praia</a>.<br>
+The screenshots are sorted from most recent to oldest version (from 2006 to 2003).
+<br><br>
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Front-end and Back-end Coding.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, MS SQL.<br>
+<b>Years:</b> 2003-2006<br>
+</span>
+-
+credits:
+©2003-2006 <a href="http://www.miguel-praia.com/" title="Open Miguel Praia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/miguel-praia.com']);">Miguel Praia</a>

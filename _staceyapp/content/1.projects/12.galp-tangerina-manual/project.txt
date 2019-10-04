@@ -1,0 +1,25 @@
+title: Galp Tangerina Manual
+-
+date: 2009
+-
+meta_description: An interactive Company Manual for the new employees of Galpgeste, a subsidiary of Galp Energia — the only Portuguese oil and natural gas operator.
+-
+page_description: An interactive Company Manual for the new employees of Galpgeste, a subsidiary of Galp Energia — the only Portuguese oil and natural gas operator.
+-
+content: 
+An interactive Company Manual for the new employees of Galpgeste, a subsidiary of Galp Energia — the only Portuguese oil and natural gas operator.<br>
+The employee is presented with topics, images and videos to learn all the important procedures and regulations of the company. All the presentation is guided by a pre-recorded text speaker. In the final chapter, the employee is presented with a Quiz in which a minimal grade (or minimal amount of correct answers) must be achieved to unlock the mandatory certificate.
+<br><br> 
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Flash Coding.<br>
+<b>Languages:</b> Actionscript, XML.<br>
+<b>Year:</b> 2009<br>
+</span>
+-
+credits:
+<b>Credits:</b><br>
+Sound by <a href="http://www.linkedin.com/pub/jean-pierre-santos/16/582/224/" title="Open Jean-Pierre Santos's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_jeanpierresantos']);">Jean-Pierre Santos</a> and <a href="http://www.linkedin.com/in/luismiguelpereira/" title="Open Luis Pereira's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_luismiguelpereira']);">Luis Pereira</a>.<br> 
+<br>
+©2009 <a href="http://www.galpenergia.com/" title="Open Galp Energia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/galpenergia.com']);">Galp Energia</a>
+
+

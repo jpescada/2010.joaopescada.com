@@ -1,0 +1,11 @@
+foreach $images do
+	<div class="image">
+		<img src="@url" alt="@title" width="@width" height="@height">
+    if @title do
+		&nbsp;&nbsp;&nbsp;<span class="title">@title</span>
+	endif
+	if @description do
+		&nbsp;&nbsp;&nbsp;<span class="description">@description</span>
+	endif
+	</div>
+endforeach

@@ -1,0 +1,29 @@
+title: Opel Astra 2010 adverts
+-
+date: 2010
+-
+meta_description: Two (of four) interactive adverts for an online campaign to promote highlights of the new Opel Astra.
+-
+page_description: Two (of four) interactive adverts for an online campaign to promote highlights of the new Opel Astra.
+-
+content: 
+Two (of four) interactive adverts for an online campaign to promote highlights of the new Opel Astra:<br>
+— In the first (<i>Aderência</i>), the user is asked to test the car's grip, by dragging the advert, ending up to drag the whole website layout, that goes back to the original position, once it's released.<br>
+— In the second (<i>Disputa</i>), the user is challenged to a race till the bottom of the browser, being surprised with a new animation when he gets there.<br><br>
+<span class="details"> 
+<b>Role:</b> Flash Coding.<br>
+<b>Language:</b> HTML, CSS, Javascript, Actionscript.<br>
+<b>Year:</b> 2010<br>
+</span>
+<br>
+<b>Demo URLs:</b><br>
+— <i>Aderência</i>: <a href="http://demo.joaopescada.com/opel-astra-aderencia/" title="Open Aderência's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/opel-astra-aderencia']);">http://demo.joaopescada.com/opel-astra-aderencia/</a><br>
+— <i>Disputa</i>: <a href="http://demo.joaopescada.com/opel-astra-disputa/" title="Open Disputa's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/opel-astra-disputa']);">http://demo.joaopescada.com/opel-astra-disputa/</a>
+-
+credits:
+<b>Credits:</b><br>
+Design by <a href="http://www.linkedin.com/pub/catarina-vaz/16/995/21b" title="Open Catarina Vaz's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_catarinavaz']);">Catarina Vaz</a>.<br>
+Javascript Coding by <a href="http://www.linkedin.com/in/claudiomedina/" title="Open Cláudio Medina's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_claudiomedina']);">Cláudio Medina</a>.<br>
+Flash Coding in collaboration with <a href="http://www.linkedin.com/in/analigeiro/" title="Open Ana Ligeiro's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_analigeiro']);">Ana Ligeiro</a>.<br>
+<br>
+©2010 <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>

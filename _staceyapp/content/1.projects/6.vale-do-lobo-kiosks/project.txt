@@ -1,0 +1,25 @@
+title: Vale do Lobo kiosks
+-
+date: 2006-2007
+-
+meta_description: These are two desktop applications I've designed and developed for touch-screen kiosks, while employed by the Vale do Lobo Resort.
+-
+page_description: These are two desktop applications I've designed and developed for touch-screen kiosks, while employed by the Vale do Lobo Resort.
+-
+content: 
+These are two desktop applications I've designed and developed for touch-screen kiosks, while employed by the <a href="http://www.valedolobo.com/" title="Open Vale do Lobo's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/valedolobo.com']);">Vale do Lobo Resort</a>.<br>
+The first is a check-in machine for the Golf Courses, to automate and speed up the process so the players can get ready for their games; and the second a promotional interactive presentation to be displayed in spots outside of the Resort.
+<br><br>
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end and Back-end Coding.<br>
+<b>Languages:</b> Actionscript, XML, ASP.net and MS SQL.<br>
+<b>Years:</b> 2006-2007<br>
+</span>
+-
+credits:
+<b>Credits:</b><br>
+Technical Direction by <a href="http://www.linkedin.com/pub/paulo-barbosa/15/3aa/230/" title="Open Paulo Barbosa's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_paulobarbosa']);">Paulo Barbosa</a>.<br>
+Back-end Coding in the Golf Kiosk by <a href="http://www.linkedin.com/in/vconceicao" title="Open Valter Conceição's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_paulobarbosa']);">Valter Conceição</a>.<br>
+Photography by <a href="http://www.linkedin.com/in/ldjmarcelo" title="Open Marcelo Lopes' LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_marcelolopes']);">Marcelo Lopes</a>.<br>
+<br>
+©2006-2007 <a href="http://www.valedolobo.com/" title="Open Vale do Lobo's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/valedolobo.com']);">Vale do Lobo</a>

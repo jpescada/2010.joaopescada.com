@@ -1,0 +1,82 @@
+RewriteEngine on
+RewriteBase /
+
+#ErrorDocument 404 /404.html
+
+# Rewrite any calls to www to non-www
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+#OLD: ^www\.(.*)$
+#NEW: ^[a-z0-9]+\.joaopescada.com($|/)
+
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Rewrite any calls to /cv to bit.ly and then dropbox link
+#RewriteRule ^cv($|/) http://bit.ly/cv_jpescada [R=301,L]
+RewriteRule ^cv($|/) /cv_joao_pescada.pdf [R=301,L]
+
+# Rewrite any misspels of /contact to /contacts
+RewriteRule ^contact($|/) /contacts [R=301,L]
+
+# Rewrite any calls from /bma or /book to /building-mobile-apps
+RewriteRule ^bma($|/) /building-mobile-apps [R=301,L]
+RewriteRule ^book($|/) /building-mobile-apps [R=301,L]
+
+# Rewrite any calls to /blog to blog.joaopescada.com
+RewriteRule ^blog($|/) http://blog.joaopescada.com [R=301,L]
+
+# Rewrite any calls to /project to /projects
+RewriteRule ^project/(.*) http://joaopescada.com/projects/$1 [R=301,L]
+
+# Rewrite any calls to /article to blog.joaopescada.com
+RewriteRule ^article/(.*) http://blog.joaopescada.com/article/$1 [R=301,L]
+RewriteRule ^articles/(.*) http://blog.joaopescada.com/article/$1 [R=301,L]
+
+# Rewrite any calls to *.html, *.json, *.xml, *.atom, *.rss, *.rdf or *.txt if a folder matching * exists
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_URI} !public/
+#RewriteCond %{DOCUMENT_ROOT}/public/$1.$2 !-f
+#RewriteRule (.+)\.(html|json|xml|atom|rss|rdf|txt)$ $1/ [L]
+
+# Add a trailing slash to directories
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_URI} !(\.)
+#RewriteCond %{REQUEST_URI} !(.*)/$
+#RewriteRule ([^/]+)$ $1/ [L]
+
+# Rewrite any calls to /* or /app to the index.php file
+#RewriteCond %{REQUEST_URI} /app/$
+#RewriteRule ^app/ index.php [L]
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)/$ index.php?$1 [L]
+
+# Rewrite any file calls to the public directory
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_URI} !public/
+#RewriteRule ^(.+)$ public/$1 [L]
+
+#AddHandler php5-script .php
+
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/javascript text/css
+
+SetOutputFilter DEFLATE
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip dont-vary
+SetEnvIfNoCase Request_URI \.(?:exe|t?gz|zip|bz2|sit|rar)$ no-gzip dont-vary
+SetEnvIfNoCase Request_URI \.pdf$ no-gzip dont-vary
+
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+
+#DeflateFilterNote Input input_info
+#DeflateFilterNote Output output_info
+#DeflateFilterNote Ratio ratio_info
+#LogFormat '"%r" %{output_info}n/%{input_info}n (%{ratio_info}n%%)' deflate
+#CustomLog /var/www/vhosts/joaopescada.com/httpdocs/logs/deflate_log deflate

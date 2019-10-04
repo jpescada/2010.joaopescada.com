@@ -1,0 +1,27 @@
+title: Oonique Candles
+-
+date: 2010
+-
+meta_description: A website to promote the oonique candles and the candlemaker from oon solutions.
+-
+page_description: A website to promote the oonique candles and the candlemaker from oon solutions.
+-
+content: 
+A website to promote the oonique candles and the candlemaker from <a href="http://www.oonsolutions.com/" title="Open oon solutions' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/oonsolutions.com']););">oon solutions</a>.<br>
+Papervision3D (3D Engine) and JigLib (3D Physics Engine) were used to simulate real oonique candle boxes so the user could interact with.
+<br><br> 
+<span class="details">
+<b>Roles:</b> Front-end and Back-end Coding, Search Engine Optimization.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, ASP.net, MS SQL.<br>
+<b>Year:</b> 2010<br>
+</span>
+<br>
+<b>URL:</b> <a href="http://www.oonique-candles.com/" title="Open oonique candles' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/oonique-candles.com']);">http://www.oonique-candles.com</a>
+-
+credits:
+<b>Credits:</b><br>
+Design by <a href="http://www.linkedin.com/in/davidcarvalho/" title="Open David Carvalho's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_davidcarvalho']);">David Carvalho</a>.<br>
+No-plugin page coded by <a href="http://www.linkedin.com/in/claudiomedina/" title="Open Cláudio Medina's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_claudiomedina']);">Cláudio Medina</a>.<br>
+Back-end coding by <a href="http://www.linkedin.com/in/luismiguelpereira/" title="Open Luis Pereira's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_luismiguelpereira']);">Luis Pereira</a>.<br> 
+<br>
+©2010 <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>

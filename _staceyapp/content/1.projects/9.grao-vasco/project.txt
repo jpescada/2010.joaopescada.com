@@ -1,0 +1,26 @@
+title: Grão Vasco
+-
+date: 2008
+-
+meta_description: A promotional website inline with the advertising campaign running at the time.
+-
+page_description: A promotional website inline with the advertising campaign running at the time.
+-
+content: 
+A promotional website inline with the advertising campaign running at the time. 
+<br><br> 
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end Coding.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, PHP.<br>
+<b>Year:</b> 2008<br>
+</span>
+<br>
+<b>URL:</b> <a href="http://www.graovasco.eu/" title="Open Grão Vasco's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/graovasco.eu']);">http://www.graovasco.eu</a>
+-
+credits:
+<b>Credits:</b><br>
+Flash Coding in collaboration with <a href="http://www.semmais.com/" title="Open Paulo Afonso's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/semmais.com']);">Paulo Afonso</a>.<br>
+Back-end Coding by <a href="http://www.semmais.com/" title="Open Paulo Afonso's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/semmais.com']);">Paulo Afonso</a>.<br>
+<br>
+©2008 <a href="http://www.grey.pt/" title="Open GREY Group Portugal's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/grey.pt']);">GREY Group Portugal</a>
+

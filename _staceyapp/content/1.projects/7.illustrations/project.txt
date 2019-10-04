@@ -1,0 +1,13 @@
+title: Illustrations
+-
+date: 2003-2005
+-
+meta_description: Some illustrations, worth mentioning, that I've made years ago.
+-
+page_description: Some illustrations, worth mentioning, that I've made years ago.
+-
+content: 
+Some illustrations, worth mentioning, that I've made years ago:<br>
+— "Getting Out" for MUSA Collective. Selected and published in MUSA book by <a href="http://www.idnworld.com/" title="Open IdN's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/idnworld.com']);">IdN</a>. (2005)<br>
+— "Big Calm Timeout" for MUSA Collective. (2005)<br>
+— "Multidiskplayer" for Passvite Magazine. (2003)

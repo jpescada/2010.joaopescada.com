@@ -1,0 +1,20 @@
+title: Miguel Praia WSBK'04
+-
+date: 2004
+-
+meta_description: An interactive Sponsorship Proposal to get the rider Miguel Praia a team for the 2004 season of the Superbike World Championship. Not only the presentation, but also the cd and case decorations were produced "in-house".
+-
+page_description: An interactive Sponsorship Proposal to get the rider Miguel Praia a team for the 2004 season of the Superbike World Championship. Not only the presentation, but also the cd and case decorations were produced "in-house".
+-
+content: 
+An interactive Sponsorship Proposal to get the rider <a href="http://www.miguel-praia.com/" title="Open Miguel Praia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/miguel-praia.com']);">Miguel Praia</a> a team for the 2004 season of the <a href="http://www.worldsbk.com/" title="Open Superbike World Championship's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/worldsbk.com']);">Superbike World Championship</a>.<br>
+Not only the presentation, but also the cd and case decorations were produced "in-house".
+<br><br>
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Graphic Design, Front-end Coding.<br>
+<b>Languages:</b> Actionscript, XML.<br>
+<b>Year:</b> 2004<br>
+</span>
+-
+credits:
+©2004 <a href="http://www.miguel-praia.com/" title="Open Miguel Praia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/miguel-praia.com']);">Miguel Praia</a>

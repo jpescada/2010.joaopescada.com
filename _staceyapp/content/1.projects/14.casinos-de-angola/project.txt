@@ -1,0 +1,30 @@
+title: Casinos de Angola
+-
+date: 2009
+-
+meta_description: Two websites for recently-built casinos in Angola. Having similar content struture, but different layouts, the code followed the Model-View-Controller concept, namely the PureMVC framework.
+-
+page_description: Two websites for recently-built casinos in Angola. Having similar content struture, but different layouts, the code followed the Model-View-Controller concept, namely the PureMVC framework.
+-
+content: 
+Two websites for recently-built casinos in Angola. <br>
+Having similar content struture, but different layouts, the code followed the Model-View-Controller concept, namely the PureMVC framework.
+<br>
+<br> 
+<span class="details">
+<b>Roles:</b> Front-end and Back-end coding, Search Engine Optimization.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, Microformats.<br>
+<b>Year:</b> 2009<br>
+</span>
+<br>
+<b>URLs:</b><br> 
+— <a href="http://www.casino-marinha.com" title="Open Casino Marinha's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/casino-marinha.com']);">http://www.casino-marinha.com</a><br>
+— <a href="http://www.casino-olimpia.com" title="Open Casino Olimpia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/casino-olimpia.com']);">http://www.casino-olimpia.com</a>
+-
+credits:
+<b>Credits:</b><br>
+Design by <a href="http://www.linkedin.com/pub/paula-lopes/16/b4/604" title="Open Paula Lopes' LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_paulalopes']);">Paula Lopes</a>.<br> 
+No-plugin pages coded by <a href="http://www.linkedin.com/in/vitorazevedo/" title="Open Vitor Azevedo's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_vitorazevedo']);">Vitor Azevedo</a>.<br>
+Flash Coding in collaboration with <a href="http://www.linkedin.com/in/analigeiro/" title="Open Ana Ligeiro's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_analigeiro']);">Ana Ligeiro</a>.<br>
+<br>
+©2009 <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>

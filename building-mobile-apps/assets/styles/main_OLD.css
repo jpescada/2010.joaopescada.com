@@ -1,0 +1,457 @@
+
+/*
+ *
+ * Bootstrap overrides
+ *
+ */
+
+
+.btn-primary {
+	background-image: none;
+	/*
+	background-color: #47847C;
+	border-color: #47847C;
+	*/
+	background-color: #e67e22;
+	border: none;
+	/*border-color: #d35400;*/
+}
+	.btn-primary:hover,
+	.btn-primary:active,
+	.btn-primary:focus
+	 {
+		background-color: #d35400;
+		/*border-color: #d35400;*/
+	}
+
+hr { border-color:#ccc; }
+
+
+/*
+ *
+ * Page classes
+ *
+ */
+
+body {
+	/*
+	background-color: #DDDDDD;
+	*/
+}
+
+.dashed { border-style: dashed; }
+
+.top-bar {
+	width: 100%;
+	height: 5px;
+	background-color: #37756C;
+
+	/*background-color: #C14425;*/
+}
+
+#page {
+	background-color: #fff;
+	
+	/*
+	-webkit-box-shadow: 0px 0px 5px rgba(0,0,0,.3);
+	-moz-box-shadow: 0px 0px 5px rgba(0,0,0,.3);
+	box-shadow: 0px 0px 5px rgba(0,0,0,.3);
+	*/
+}
+
+.container-narrow {
+	/*
+	margin: 0 auto;
+	max-width: 750px;
+	*/
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "Calluna W01", Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-weight: 400;
+
+	letter-spacing: -0.02em;
+	line-height: 1.2;
+
+	-webkit-text-shadow: 0px 0px 1px rgba(0,0,0,.1);
+	text-shadow: 0px 0px 1px rgba(0,0,0,.1);
+}
+h1 {	
+	font-size: 34px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	color: #183430;
+}
+
+h3 {
+	font-weight:600; 
+	font-style:normal;
+	font-size: 28px;
+}
+
+h4 {
+	font-weight:600; 
+	font-style:normal;
+	font-size: 20px;
+}
+
+.featured-top-row {
+	/*margin: 0 auto;*/
+	max-width: 750px;
+	padding-bottom: 0px;
+}
+
+.featured-top-row-left {
+	font-size: 16px;
+	line-height: 1.6;
+
+	font-family: "Proxima Nova W01","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight:400;
+	font-style:normal;
+
+	-webkit-text-shadow: 0px 0px 1px rgba(0,0,0,.1);
+	text-shadow: 0px 0px 1px rgba(0,0,0,.1);
+}
+	.featured-top-row-left p {
+		margin-bottom: 15px;
+	}
+
+	.featured-top-row-left .launch-date {
+		font-family: inherit;
+		font-size: inherit;
+	}
+
+	.packages-link {
+		color: #999;
+		display: block;
+		margin: 10px auto;
+		font-size: 14px;
+	}
+
+		.packages-link:hover {
+			color: #333;
+		}
+	
+
+.featured-top-row-right {}
+
+.book-cover {
+	margin-top: 30px;
+	max-width: 380px;
+	width: 100%;
+}
+
+.cta-signup {
+	/*margin-bottom: 30px;*/
+	padding: 8px 12px 6px 12px;
+}
+
+	.cta-signup .glyphicon {
+		margin-top: 1px;
+	}
+
+
+
+
+.features-row {
+	margin-top: 50px;
+	background-color: #eee;
+	padding: 50px 0 30px 0;
+	border: 1px solid #ccc;
+	border-right: none;
+	border-left: none;
+}
+
+	.features-row .content {
+		max-width: 750px;
+	}
+
+		.features-row h3 {
+			text-align: center;
+			margin: 20px 0 40px 0;
+		}
+
+		.features-single-line-title {
+			line-height: 2.4;
+		}
+
+		.features-row .col-sm-4 {
+			margin-bottom: 30px;
+		}
+
+		.features-row .icon {
+			display: inline-block;
+			opacity: 0.7;
+			width: 64px;
+			height: 64px;
+			background-size: 64px 64px;
+		}
+
+			.features-row .icon-direction {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-direction.png);
+			}
+
+			.features-row .icon-map {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-map.png);
+			}
+
+			.features-row .icon-debug {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-debug.png);
+			}
+
+			.features-row .icon-swiss-knife {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-swiss-knife.png);
+			}
+
+			.features-row .icon-code {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-code.png);
+			}
+
+			.features-row .icon-smartphone {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-smartphone.png);
+			}
+
+			.features-row .icon-speech-bubbles {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-speech-bubbles.png);
+			}
+
+			.features-row .icon-script {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-script.png);
+			}
+
+			.features-row .icon-paper-plane {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-paper-plane.png);
+			}
+
+			.features-row .icon-bar-chart {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-bar-chart.png);
+			}
+
+			.features-row .icon-gamepad {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-gamepad.png);
+			}
+
+			.features-row .icon-coffee {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-coffee.png);
+			}
+
+			.features-row .icon-infinity {
+				background-image: url(http://cdn.joaopescada.com/building-mobile-apps/assets/images/icon-infinity.png);
+			}
+
+			
+
+
+
+.subscribe-row {
+	padding-top: 50px;
+}
+
+	.subscribe-row .content {
+		max-width: 750px;
+	}
+
+		.subscribe-row h3 {
+			text-align: center;
+			margin: 20px 0;
+		}
+
+		.subscribe-row form {
+			margin-top: 20px;
+			max-width: 500px;
+			padding-right: 20px;
+			padding-left: 20px;
+		}
+
+		.subscribe-row .cta-signup {}
+
+
+
+
+.toc-row {
+	margin-top: 50px;
+}
+
+	.toc-row .content {
+		max-width: 750px;
+	}
+
+
+
+
+.about-row {
+	padding-top: 50px;
+	padding-bottom: 60px;
+	border-bottom: 1px solid #ccc;
+}
+
+	.about-row .content {
+		max-width: 750px;
+		line-height: 1.6;
+	}
+
+		.about-row h3 {
+			text-align: center;
+			margin: 20px 0;
+		}
+
+		.about-row .profile-img {
+			border: 2px solid #ccc;
+			padding: 3px;
+			margin-bottom: 20px;
+
+			box-shadow: 0 0 10px rgba(0,0,0,0.15);
+		}
+
+
+
+
+.packages-row {
+	margin-top: 50px;
+	background-color: #eee;
+	padding: 50px 0;
+	border: 1px solid #ccc;
+	border-right: none;
+	border-left: none;
+}
+
+	.packages-row .content {
+		max-width: 750px;
+	}
+
+		.packages-row h3 {
+			text-align: center;
+			margin: 20px 0;
+		}
+
+		.packages-row .package-box {
+			position: relative;
+			max-width: 600px;
+			border: 2px solid #ccc;
+			border-radius: 5px;
+			margin: 0 auto 30px auto;
+			padding: 10px 20px 20px 20px;
+			text-align: left;
+			background-color: #fff;
+
+			box-shadow: 0 0 10px rgba(0,0,0,0.15);
+		}
+
+			.packages-row .package-box h4 {
+				font-weight:600; 
+				font-style:normal;
+				font-size: 24px;
+				margin-top: 20px;
+			}
+
+			.packages-row .package-box h5 {
+				font-weight:600; 
+				font-style:normal;
+				font-size: 16px;
+				color: #888;
+				margin-bottom: 20px;
+			}
+
+			.packages-row .package-box .cta-buy {
+				/*
+				position: absolute;
+				top: 25px;
+				right: 20px;
+				*/
+				/*text-shadow: 0 0 5px rgba(0,0,0,0.5);*/
+				margin-bottom: 20px;
+			}
+				.packages-row .package-box .cta-buy:hover {
+
+				}
+			/*
+			.packages-row .package-box hr {
+				border-style: dashed;
+			}
+			*/
+
+
+
+
+.faq-row {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+	.faq-row .content {
+		max-width: 750px;
+	}
+
+		.faq-row h3 {
+			text-align: center;
+			margin: 20px 0;
+		}
+
+		.faq-row .col-sm-6 {
+			margin-bottom: 30px;
+		}
+
+		.faq-row a {
+			color: #37756C;
+			text-decoration: underline;
+		}
+
+			.faq-row a:hover {
+				text-decoration: none;
+			}
+
+
+
+.footnote {
+	margin: 10px 0;
+	text-align: center;
+	font-size: 12px;
+	color: #999;
+}
+	.footnote em {
+		background: #ffc;
+		font-style: normal;
+	}
+
+
+
+
+.thanks-row {
+	padding-top: 50px;
+	padding-bottom: 60px;
+	border-bottom: 1px solid #ccc;
+}
+
+	.thanks-row .content {
+		max-width: 500px;
+		line-height: 1.6;
+	}
+
+		.thanks-row h3 {
+			
+			margin: 20px 0;
+		}
+
+
+
+
+
+@media only screen and (min-width: 500px) {
+
+	/* move cta to top right of package box if wider then mobile */
+	.packages-row .package-box .cta-buy {
+		position: absolute;
+		top: 25px;
+		right: 20px;
+	}
+}
+
+@media only screen and (max-device-width: 320px) {
+
+	/* increase package box width on iphones */
+	.packages-row .col-sm-12 {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+

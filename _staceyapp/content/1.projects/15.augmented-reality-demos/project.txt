@@ -1,0 +1,28 @@
+title: Augmented Reality demos
+-
+date: 2009
+-
+meta_description: Two different applications of Augmented Reality, both Flash based for online publishing.
+-
+page_description: Two different applications of Augmented Reality, both Flash based for online publishing.
+-
+content: 
+Two different applications of Augmented Reality, both Flash based for online publishing:<br>
+— TIMEX A.R. Watch: a real-looking 3D watch (with working 3D pointers) for users to experience the brand's watches on their own wrists (later used in <a href="http://www.esta-na-hora-timex.com/" title="Open Está na hora TIMEX's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/esta-na-hora-timex.com']);">Está na hora TIMEX</a>). (2009)<br>
+— Airplane A.R. Viewer: a simple 3D airplane with interactive and animated parts (later to be changed for scaled down versions of real models). (2009)<br>
+<br>
+<span class="details">
+<b>Role:</b> Flash Coding.<br>
+<b>Languages:</b> Actionscript, XML.<br>
+<b>Year:</b> 2009<br>
+</span>
+<br>
+<b>Demo URLs:</b><br>
+— TIMEX AR Watch: <a href="http://demo.joaopescada.com/timex-ar-watch/" title="Open TIMEX AR Watch's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/timex-ar-watch']);">http://demo.joaopescada.com/timex-ar-watch/</a><br>
+— Airplane AR Viewer: <a href="http://demo.joaopescada.com/airplane-ar-viewer/" title="Open Airplane AR Viewer's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/airplane-ar-viewer']);">http://demo.joaopescada.com/airplane-ar-viewer/</a><br>
+-
+credits:
+<b>Credits:</b><br>
+The airplane 3D model used in the demo belongs to someone else. I don't remember the source. If you find it online, please let me know, so the due credits are given.<br>
+<br>
+©2009 <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>

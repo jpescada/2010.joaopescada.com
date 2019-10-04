@@ -1,0 +1,22 @@
+title: DataFax
+-
+date: 2009
+-
+meta_description: A corporate website for a company leading the after-sales and tech support in the mobile communications market in Portugal.
+-
+page_description: A corporate website for a company leading the after-sales and tech support in the mobile communications market in Portugal.
+-
+content: 
+A corporate website for a company leading the after-sales and tech support in the mobile communications market in Portugal.
+<br><br> 
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end and Back-end Coding.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, XML, PHP, Microformats.<br>
+<b>Year:</b> 2008<br>
+</span>
+<br>
+<b>URL:</b> <a href="http://www.datafax.pt/" title="Open DataFax's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/datafax.pt']);">http://www.datafax.pt</a>
+-
+credits:
+©2008 <a href="http://www.datafax.pt/" title="Open DataFax's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/datafax.pt']);">DataFax</a>
+

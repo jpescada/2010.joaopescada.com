@@ -1,0 +1,25 @@
+title: Never Online Projects
+-
+date: 2005-2009
+-
+meta_description: These are projects that, for one reason or another (or a gazillion of them), never got the chance of taking their first steps on the internets (or got there, but never started running).
+-
+page_description: These are projects that, for one reason or another (or a gazillion of them), never got the chance of taking their first steps on the internets (or got there, but never started running).
+-
+content: 
+These are projects that, for one reason or another (or a gazillion of them), never got the chance of taking their first steps on the internets (or got there, but never started running):<br>
+— White Willow Wear: an online store for a clothing brand. (2009)<br>
+— Stays 'R' Us: a searchable directory of accommodation rentals. (2007)<br>
+— Pandacar: a website for a Car Rental company. (2007)<br>
+— PTGate: a news blog as a temporary website. (2006)<br>
+— MRG: two website proposals for an engineering and construction company. (2005)
+<br><br>
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Front-end and Back-end Coding.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, PHP, MS SQL, MySQL.<br>
+<b>Years:</b> 2005-2009<br>
+</span>
+-
+credits:
+<b>Credits:</b><br>
+Photos used in the White Willow Wear mockup belong to Threadless.com.

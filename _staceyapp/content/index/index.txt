@@ -1,0 +1,6 @@
+title: Home
+-
+content: 
+<h2>Welcome!</h2>
+<h3>I'm João Pescada, an Interactive Developer in Lisbon, Portugal.<br> 
+And this is a collection of selected works.</h3>

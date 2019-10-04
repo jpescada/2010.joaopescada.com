@@ -1,0 +1,11 @@
+title: Contacts
+-
+content:
+<h2>Contacts</h2>
+
+For some social media interaction, check my profile on these networks:<br>
+— LinkedIn: <a title="Open My LinkedIn profile" href="http://www.linkedin.com/in/jpescada" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/LinkedInProfile']);">linkedin.com/in/jpescada</a><br>
+— Google: <a title="Open My Google profile" href="http://www.google.com/profiles/joao.pescada" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/GoogleProfile']);">google.com/profiles/joao.pescada</a><br> 
+— Twitter: <a title="Open My Twitter profile" href="http://twitter.com/jpscd" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/TwitterProfile']);">twitter.com/jpscd</a>
+
+Or you can contact me using the e-mail: <a href="mailto:hi@joaopescada.com" title="Send e-mail" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/Email']);">hi@joaopescada.com</a>.

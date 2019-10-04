@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Never Online Projects — João Pescada | Portfolio</title>
+		<meta name="robots" content="all,index,follow">
+		<meta name="description" content="These are projects that, for one reason or another (or a gazillion of them), never got the chance of taking their first steps on the internets (or got there, but never started running).">
+		<meta name="keywords" content="joao pescada, pescada, jpscd, web design, digital media, flash developer, interactive developer, web developer, html5, javascript, lisbon, lisboa, albufeira, algarve, portugal, digitalevo, dsgnplug">
+		<meta name="completed-date" content="11/09/2010">
+		<meta name="revision-date" content="11/09/2010">
+		<meta name="revision-version" content="1.00.00">
+		<link rel="openid.server" href="http://openid.joaopescada.com/">
+		<link rel="openid.delegate" href="http://openid.joaopescada.com/">
+		<link rel="pavatar" href="http://openid.joaopescada.com/pavatar.png">
+		<link rel="shortcut icon" href="../../public/images/favicon.gif" type="image/gif">
+		<link rel="alternate" type="application/atom+xml" href="../../feed/">
+		<link rel="stylesheet" href="../../public/docs/css/screen.css" type="text/css" media="screen"> 
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-1950548-2']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col logo">
+				<a href="../../"><img src="../../public/images/logo.gif" width="84" height="84" alt="João Pescada" title="João Pescada"></a>
+			</h1>
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+	<li><em>— Projects</em></li>
+ 		<li>
+ 		<a href="../../projects/zippy-games/" title="Zippy games">Zippy games</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/opel-astra-2010-adverts/" title="Opel Astra 2010 adverts">Opel Astra 2010 adverts</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/oonique-candles/" title="Oonique Candles">Oonique Candles</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/augmented-reality-demos/" title="Augmented Reality demos">Augmented Reality demos</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/casinos-de-angola/" title="Casinos de Angola">Casinos de Angola</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/mais-que-um-sapato/" title="Mais Que Um Sapato">Mais Que Um Sapato</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/galp-tangerina-manual/" title="Galp Tangerina Manual">Galp Tangerina Manual</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/volta-ao-mundo/" title="Volta ao Mundo">Volta ao Mundo</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/graphic-design-ventures/" title="Graphic Design ventures">Graphic Design ventures</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/grao-vasco/" title="Grão Vasco">Grão Vasco</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/datafax/" title="DataFax">DataFax</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/illustrations/" title="Illustrations">Illustrations</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/vale-do-lobo-kiosks/" title="Vale do Lobo kiosks">Vale do Lobo kiosks</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/vale-do-lobo-com/" title="Vale do Lobo (.com)">Vale do Lobo (.com)</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/miguel-praia-com/" title="Miguel Praia (.com)">Miguel Praia (.com)</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/miguel-praia-wsbk-04/" title="Miguel Praia WSBK'04">Miguel Praia WSBK'04</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/once-online-projects/" title="Once Online Projects">Once Online Projects</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../../projects/never-online-projects/" title="Never Online Projects">Never Online Projects</a> 
+		
+		
+	</li>
+	<li><em>— By the way</em></li>
+		<li><a href="../../about/" title="About">About</a></li>
+	
+		<li><a href="../../contacts/" title="Contacts">Contacts</a></li>
+	
+</ul>
+</div>
+			<div id="content" class="col eight project">
+				<!--<p class="date col one">2005-2009</p>-->
+				<div class="col projects-nav">
+						<p class="prev"><a href="../../projects/once-online-projects/" title="Once Online Projects">&#x2190; Previous project</a></p>
+
+						<p class="next"><a href="../../projects/zippy-games/" title="Zippy games">Next project &#x2192;</a></p>
+
+				</div>
+				<div class="description col six">
+					<h2>Never Online Projects</h2>
+					<p>These are projects that, for one reason or another (or a gazillion of them), never got the chance of taking their first steps on the internets (or got there, but never started running):<br>
+— White Willow Wear: an online store for a clothing brand. (2009)<br>
+— Stays 'R' Us: a searchable directory of accommodation rentals. (2007)<br>
+— Pandacar: a website for a Car Rental company. (2007)<br>
+— PTGate: a news blog as a temporary website. (2006)<br>
+— MRG: two website proposals for an engineering and construction company. (2005)
+<br><br>
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Front-end and Back-end Coding.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, PHP, MS SQL, MySQL.<br>
+<b>Years:</b> 2005-2009<br>
+</span></p>
+
+				</div>
+				<hr>				
+				<div id="media">
+      	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/11.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/10.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/9.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/8.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/7.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/6.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/5.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/4.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/3.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/2.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+	<div class="image">
+		<img src="../../content/1.projects/1.never-online-projects/1.jpg" alt="Never Online Projects" width="710" height="540">
+    
+	
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+									<div class="credits col six">
+	<p><b>Credits:</b><br>
+Photos used in the White Willow Wear mockup belong to Threadless.com.</p>
+
+</div>
+				
+				<hr>
+				<div class="col projects-nav-bottom">
+						<p class="prev"><a href="../../projects/once-online-projects/" title="Once Online Projects">&#x2190; Previous project</a></p>
+
+					<p class="top"><a href="#top" title="Back to Top">&#x2191; Top</a></p>
+						<p class="next"><a href="../../projects/zippy-games/" title="Zippy games">Next project &#x2192;</a></p>
+
+				</div>
+			</div>
+			<!--<hr>
+			<p id="footer" class="col six">&copy; 2002-2010 <a class="atom-rss" href="../../feed/">RSS</a></p>-->
+		</div>
+		<script src="http://www.google.com/jsapi?key=ABQIAAAA03rE_1PHpkXaVcG5DSawUBS0ryPLjKM1aU8pbmA-bfDFgfQ8_hTioFrPjp1QXeOdf4w9Wpcwe-D2Qg" type="text/javascript"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+		<script src="../../public/docs/js/global.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../../public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>		
+	</body>
+</html>
+<!-- Stacey(2.2.1): 06986575ada16a32e1a538a317327164 -->

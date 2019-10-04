@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>João Pescada | Portfolio Feed</title>
+  <subtitle>Interactive Developer</subtitle>
+  <link href="http://joaopescada.com/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://joaopescada.com/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2010-11-13 03:14:16</updated>
+
+  <author>
+    <name>João Pescada</name>
+    <uri>http://joaopescada.com</uri>
+  </author>
+
+  <id>tag:joaopescada.com,2010:/feed/</id>
+  <rights>©2010 João Pescada</rights>
+    <entry>
+   <title>Projects</title>
+   <id>tag:joaopescada.com,2010:/projects/</id>
+   <updated>2010-09-22T22:13:18+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Zippy games</title>
+   <id>tag:joaopescada.com,2010:/projects/zippy-games/</id>
+   <updated>2010-11-10T08:46:38+11:00</updated>
+   <summary>Two educational games for children developed for Zippy: "Apanha Apanha" and "Entra e Sai".</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/zippy-games/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/18.zippy-games/10.jpg" alt="10."/>
+  <img src="../content/1.projects/18.zippy-games/9.jpg" alt="9."/>
+  <img src="../content/1.projects/18.zippy-games/7.jpg" alt="7."/>
+  <img src="../content/1.projects/18.zippy-games/6.jpg" alt="6."/>
+  <img src="../content/1.projects/18.zippy-games/5.jpg" alt="5."/>
+  <img src="../content/1.projects/18.zippy-games/4.jpg" alt="4."/>
+  <img src="../content/1.projects/18.zippy-games/3.jpg" alt="3."/>
+  <img src="../content/1.projects/18.zippy-games/2.jpg" alt="2."/>
+
+          
+            <p>Two educational games for children developed for Zippy: <i>"Apanha Apanha"</i> and <i>"Entra e Sai"</i>.<br />
+In <i><a href="http://www.zippy.pt/Game/Detail/apanha-apanha_864fb38e8fce" title="Open 'Apanha Apanha' game" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/zippy.pt_apanhaapanha']);">"Apanha Apanha"</a></i>, Augmented Reality is created though the webcam to interact with the game.<br />
+In <i><a href="http://www.zippy.pt/Game/Detail/entra-e-sai_f3b169f7640a" title="Open 'Entra e Sai' game" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/zippy.pt_entraesai']);">"Entra e Sai"</a></i>, the game generates a different perfect maze for each of the 5 levels, in every play.
+<br /><br /> 
+<span class="details">
+<b>Role:</b> Flash Coding.<br />
+<b>Languages:</b> Actionscript, XML, ASP.net, MS SQL.<br />
+<b>Year:</b> 2010<br />
+</span>
+<br />
+<b>URL:</b> <a href="http://www.zippy.pt/Game" title="Open Zippy games' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/zippy_games']);">http://www.zippy.pt/Game</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Opel Astra 2010 adverts</title>
+   <id>tag:joaopescada.com,2010:/projects/opel-astra-2010-adverts/</id>
+   <updated>2010-11-10T08:49:13+11:00</updated>
+   <summary>Two (of four) interactive adverts for an online campaign to promote highlights of the new Opel Astra.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/opel-astra-2010-adverts/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/17.opel-astra-2010-adverts/10.jpg" alt="10."/>
+  <img src="../content/1.projects/17.opel-astra-2010-adverts/9.jpg" alt="9."/>
+  <img src="../content/1.projects/17.opel-astra-2010-adverts/8.jpg" alt="8."/>
+  <img src="../content/1.projects/17.opel-astra-2010-adverts/7.jpg" alt="7."/>
+
+          
+            <p>Two (of four) interactive adverts for an online campaign to promote highlights of the new Opel Astra:<br />
+— In the first (<i>Aderência</i>), the user is asked to test the car's grip, by dragging the advert, ending up to drag the whole website layout, that goes back to the original position, once it's released.<br />
+— In the second (<i>Disputa</i>), the user is challenged to a race till the bottom of the browser, being surprised with a new animation when he gets there.<br /><br />
+<span class="details"> 
+<b>Role:</b> Flash Coding.<br />
+<b>Language:</b> HTML, CSS, Javascript, Actionscript.<br />
+<b>Year:</b> 2010<br />
+</span>
+<br />
+<b>Demo URLs:</b><br />
+— <i>Aderência</i>: <a href="http://demo.joaopescada.com/opel-astra-aderencia/" title="Open Aderência's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/opel-astra-aderencia']);">http://demo.joaopescada.com/opel-astra-aderencia/</a><br />
+— <i>Disputa</i>: <a href="http://demo.joaopescada.com/opel-astra-disputa/" title="Open Disputa's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/opel-astra-disputa']);">http://demo.joaopescada.com/opel-astra-disputa/</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Oonique Candles</title>
+   <id>tag:joaopescada.com,2010:/projects/oonique-candles/</id>
+   <updated>2010-11-10T08:55:27+11:00</updated>
+   <summary>A website to promote the oonique candles and the candlemaker from oon solutions.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/oonique-candles/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/16.oonique-candles/10.jpg" alt="10."/>
+  <img src="../content/1.projects/16.oonique-candles/9.jpg" alt="9."/>
+  <img src="../content/1.projects/16.oonique-candles/8.jpg" alt="8."/>
+  <img src="../content/1.projects/16.oonique-candles/7.jpg" alt="7."/>
+  <img src="../content/1.projects/16.oonique-candles/6.jpg" alt="6."/>
+  <img src="../content/1.projects/16.oonique-candles/5.jpg" alt="5."/>
+
+          
+            <p>A website to promote the oonique candles and the candlemaker from <a href="http://www.oonsolutions.com/" title="Open oon solutions' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/oonsolutions.com']););">oon solutions</a>.<br />
+Papervision3D (3D Engine) and JigLib (3D Physics Engine) were used to simulate real oonique candle boxes so the user could interact with.
+<br /><br /> 
+<span class="details">
+<b>Roles:</b> Front-end and Back-end Coding, Search Engine Optimization.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, ASP.net, MS SQL.<br />
+<b>Year:</b> 2010<br />
+</span>
+<br />
+<b>URL:</b> <a href="http://www.oonique-candles.com/" title="Open oonique candles' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/oonique-candles.com']);">http://www.oonique-candles.com</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Augmented Reality demos</title>
+   <id>tag:joaopescada.com,2010:/projects/augmented-reality-demos/</id>
+   <updated>2010-11-10T08:18:00+11:00</updated>
+   <summary>Two different applications of Augmented Reality, both Flash based for online publishing.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/augmented-reality-demos/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/15.augmented-reality-demos/10.jpg" alt="10."/>
+  <img src="../content/1.projects/15.augmented-reality-demos/9.jpg" alt="9."/>
+
+          
+            <p>Two different applications of Augmented Reality, both Flash based for online publishing:<br />
+— TIMEX A.R. Watch: a real-looking 3D watch (with working 3D pointers) for users to experience the brand's watches on their own wrists (later used in <a href="http://www.esta-na-hora-timex.com/" title="Open Está na hora TIMEX's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/esta-na-hora-timex.com']);">Está na hora TIMEX</a>). (2009)<br />
+— Airplane A.R. Viewer: a simple 3D airplane with interactive and animated parts (later to be changed for scaled down versions of real models). (2009)<br />
+<br />
+<span class="details">
+<b>Role:</b> Flash Coding.<br />
+<b>Languages:</b> Actionscript, XML.<br />
+<b>Year:</b> 2009<br />
+</span>
+<br />
+<b>Demo URLs:</b><br />
+— TIMEX AR Watch: <a href="http://demo.joaopescada.com/timex-ar-watch/" title="Open TIMEX AR Watch's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/timex-ar-watch']);">http://demo.joaopescada.com/timex-ar-watch/</a><br />
+— Airplane AR Viewer: <a href="http://demo.joaopescada.com/airplane-ar-viewer/" title="Open Airplane AR Viewer's demo" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/airplane-ar-viewer']);">http://demo.joaopescada.com/airplane-ar-viewer/</a><br /></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Casinos de Angola</title>
+   <id>tag:joaopescada.com,2010:/projects/casinos-de-angola/</id>
+   <updated>2010-11-10T09:02:03+11:00</updated>
+   <summary>Two websites for recently-built casinos in Angola. Having similar content struture, but different layouts, the code followed the Model-View-Controller concept, namely the PureMVC framework.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/casinos-de-angola/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/14.casinos-de-angola/12.jpg" alt="12."/>
+  <img src="../content/1.projects/14.casinos-de-angola/11.jpg" alt="11."/>
+  <img src="../content/1.projects/14.casinos-de-angola/10.jpg" alt="10."/>
+  <img src="../content/1.projects/14.casinos-de-angola/9.jpg" alt="9."/>
+  <img src="../content/1.projects/14.casinos-de-angola/8.jpg" alt="8."/>
+  <img src="../content/1.projects/14.casinos-de-angola/7.jpg" alt="7."/>
+  <img src="../content/1.projects/14.casinos-de-angola/6.jpg" alt="6."/>
+  <img src="../content/1.projects/14.casinos-de-angola/5.jpg" alt="5."/>
+  <img src="../content/1.projects/14.casinos-de-angola/4.jpg" alt="4."/>
+  <img src="../content/1.projects/14.casinos-de-angola/3.jpg" alt="3."/>
+  <img src="../content/1.projects/14.casinos-de-angola/2.jpg" alt="2."/>
+  <img src="../content/1.projects/14.casinos-de-angola/1.jpg" alt="1."/>
+
+          
+            <p>Two websites for recently-built casinos in Angola. <br />
+Having similar content struture, but different layouts, the code followed the Model-View-Controller concept, namely the PureMVC framework.
+<br />
+<br /> 
+<span class="details">
+<b>Roles:</b> Front-end and Back-end coding, Search Engine Optimization.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, Microformats.<br />
+<b>Year:</b> 2009<br />
+</span>
+<br />
+<b>URLs:</b><br /> 
+— <a href="http://www.casino-marinha.com" title="Open Casino Marinha's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/casino-marinha.com']);">http://www.casino-marinha.com</a><br />
+— <a href="http://www.casino-olimpia.com" title="Open Casino Olimpia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/casino-olimpia.com']);">http://www.casino-olimpia.com</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Mais Que Um Sapato</title>
+   <id>tag:joaopescada.com,2010:/projects/mais-que-um-sapato/</id>
+   <updated>2010-11-10T09:04:41+11:00</updated>
+   <summary>An online auction of the shoes used by Nelson Évora on the triple jump that got him the gold medal in the Beijing Olympic Games. The money raised went for Djunta Mon, a charity project helping children in Cape Verde.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/mais-que-um-sapato/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/13.mais-que-um-sapato/10.jpg" alt="10."/>
+  <img src="../content/1.projects/13.mais-que-um-sapato/9.jpg" alt="9."/>
+  <img src="../content/1.projects/13.mais-que-um-sapato/8.jpg" alt="8."/>
+  <img src="../content/1.projects/13.mais-que-um-sapato/7.jpg" alt="7."/>
+  <img src="../content/1.projects/13.mais-que-um-sapato/6.jpg" alt="6."/>
+  <img src="../content/1.projects/13.mais-que-um-sapato/5.jpg" alt="5."/>
+
+          
+            <p>An online auction of the shoes used by Nelson Évora on the triple jump that got him the gold medal in the Beijing Olympic Games. The money raised went for Djunta Mon, a charity project helping children in Cape Verde. 
+<br />
+<br /> 
+<span class="details">
+<b>Roles:</b> Flash Coding.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP.net, MS SQL.<br />
+<b>Year:</b> 2009<br />
+</span>
+<br />
+<b>URL:</b> <a href="http://www.maisqueumsapato.com" title="Mais Que Um Sapato's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/maisqueumsapato.com']);">http://www.maisqueumsapato.com</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Galp Tangerina Manual</title>
+   <id>tag:joaopescada.com,2010:/projects/galp-tangerina-manual/</id>
+   <updated>2010-11-10T09:06:45+11:00</updated>
+   <summary>An interactive Company Manual for the new employees of Galpgeste, a subsidiary of Galp Energia — the only Portuguese oil and natural gas operator.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/galp-tangerina-manual/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/12.galp-tangerina-manual/16.jpg" alt="16."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/15.jpg" alt="15."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/14.jpg" alt="14."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/13.jpg" alt="13."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/12.jpg" alt="12."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/11.jpg" alt="11."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/10.jpg" alt="10."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/9.jpg" alt="9."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/8.jpg" alt="8."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/7.jpg" alt="7."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/6.jpg" alt="6."/>
+  <img src="../content/1.projects/12.galp-tangerina-manual/5.jpg" alt="5."/>
+
+          
+            <p>An interactive Company Manual for the new employees of Galpgeste, a subsidiary of Galp Energia — the only Portuguese oil and natural gas operator.<br />
+The employee is presented with topics, images and videos to learn all the important procedures and regulations of the company. All the presentation is guided by a pre-recorded text speaker. In the final chapter, the employee is presented with a Quiz in which a minimal grade (or minimal amount of correct answers) must be achieved to unlock the mandatory certificate.
+<br /><br /> 
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Flash Coding.<br />
+<b>Languages:</b> Actionscript, XML.<br />
+<b>Year:</b> 2009<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Volta ao Mundo</title>
+   <id>tag:joaopescada.com,2010:/projects/volta-ao-mundo/</id>
+   <updated>2010-11-10T09:08:43+11:00</updated>
+   <summary>An online quiz contest about the Star Alliance that offered the winner a trip around the world.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/volta-ao-mundo/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/11.volta-ao-mundo/10.jpg" alt="10."/>
+  <img src="../content/1.projects/11.volta-ao-mundo/9.jpg" alt="9."/>
+  <img src="../content/1.projects/11.volta-ao-mundo/8.jpg" alt="8."/>
+  <img src="../content/1.projects/11.volta-ao-mundo/7.jpg" alt="7."/>
+
+          
+            <p>An online quiz contest about the <a href="http://www.staralliance.com" title="Open Star Alliance's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/staralliance.com']);">Star Alliance</a> that offered the winner a trip around the world.
+<br />
+<br /> 
+<span class="details">
+<b>Roles:</b> Flash Coding.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP.net, MS SQL.<br />
+<b>Year:</b> 2009<br />
+</span>
+<br />
+<b>Demo URL:</b> <a href="http://demo.joaopescada.com/volta-ao-mundo-star-alliance" title="Open Volta ao Mundo Star Alliance's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/volta-ao-mundo-star-alliance']);">http://demo.joaopescada.com/volta-ao-mundo-star-alliance</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Graphic Design ventures</title>
+   <id>tag:joaopescada.com,2010:/projects/graphic-design-ventures/</id>
+   <updated>2010-11-10T08:25:03+11:00</updated>
+   <summary>These are works I did with no guarantee of success in results. Fortunately, the return ended up being better then an expected disaster.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/graphic-design-ventures/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/10.graphic-design-ventures/10.jpg" alt="10."/>
+  <img src="../content/1.projects/10.graphic-design-ventures/9.jpg" alt="9."/>
+  <img src="../content/1.projects/10.graphic-design-ventures/8.jpg" alt="8."/>
+  <img src="../content/1.projects/10.graphic-design-ventures/6.jpg" alt="6."/>
+  <img src="../content/1.projects/10.graphic-design-ventures/5.jpg" alt="5."/>
+
+          
+            <p>These are works I did with no guarantee of success in results. Fortunately, the return ended up being better then an expected disaster:<br />
+— RE/MAX stationery, promo packs and leaflets. (2007)<br />
+— Miguel Praia team and bike identity. (2003/2006)
+<br /><br />
+<span class="details"> 
+<b>Role:</b> Graphic Design.<br />
+<b>Language:</b> Human. :)<br />
+<b>Years:</b> 2003-2007<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Grão Vasco</title>
+   <id>tag:joaopescada.com,2010:/projects/grao-vasco/</id>
+   <updated>2010-11-10T08:25:42+11:00</updated>
+   <summary>A promotional website inline with the advertising campaign running at the time.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/grao-vasco/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/9.grao-vasco/10.jpg" alt="10."/>
+  <img src="../content/1.projects/9.grao-vasco/9.jpg" alt="9."/>
+  <img src="../content/1.projects/9.grao-vasco/8.jpg" alt="8."/>
+  <img src="../content/1.projects/9.grao-vasco/7.jpg" alt="7."/>
+  <img src="../content/1.projects/9.grao-vasco/6.jpg" alt="6."/>
+  <img src="../content/1.projects/9.grao-vasco/5.jpg" alt="5."/>
+  <img src="../content/1.projects/9.grao-vasco/4.jpg" alt="4."/>
+  <img src="../content/1.projects/9.grao-vasco/3.jpg" alt="3."/>
+  <img src="../content/1.projects/9.grao-vasco/2.jpg" alt="2."/>
+
+          
+            <p>A promotional website inline with the advertising campaign running at the time. 
+<br /><br /> 
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end Coding.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, PHP.<br />
+<b>Year:</b> 2008<br />
+</span>
+<br />
+<b>URL:</b> <a href="http://www.graovasco.eu/" title="Open Grão Vasco's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/graovasco.eu']);">http://www.graovasco.eu</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>DataFax</title>
+   <id>tag:joaopescada.com,2010:/projects/datafax/</id>
+   <updated>2010-11-10T08:26:20+11:00</updated>
+   <summary>A corporate website for a company leading the after-sales and tech support in the mobile communications market in Portugal.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/datafax/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/8.datafax/10.jpg" alt="10."/>
+  <img src="../content/1.projects/8.datafax/9.jpg" alt="9."/>
+  <img src="../content/1.projects/8.datafax/8.jpg" alt="8."/>
+  <img src="../content/1.projects/8.datafax/7.jpg" alt="7."/>
+  <img src="../content/1.projects/8.datafax/6.jpg" alt="6."/>
+
+          
+            <p>A corporate website for a company leading the after-sales and tech support in the mobile communications market in Portugal.
+<br /><br /> 
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end and Back-end Coding.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, XML, PHP, Microformats.<br />
+<b>Year:</b> 2008<br />
+</span>
+<br />
+<b>URL:</b> <a href="http://www.datafax.pt/" title="Open DataFax's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/datafax.pt']);">http://www.datafax.pt</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Illustrations</title>
+   <id>tag:joaopescada.com,2010:/projects/illustrations/</id>
+   <updated>2010-11-10T08:26:55+11:00</updated>
+   <summary>Some illustrations, worth mentioning, that I've made years ago.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/illustrations/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/7.illustrations/11.jpg" alt="11."/>
+  <img src="../content/1.projects/7.illustrations/10.jpg" alt="10."/>
+  <img src="../content/1.projects/7.illustrations/9.jpg" alt="9."/>
+  <img src="../content/1.projects/7.illustrations/8.jpg" alt="8."/>
+
+          
+            <p>Some illustrations, worth mentioning, that I've made years ago:<br />
+— "Getting Out" for MUSA Collective. Selected and published in MUSA book by <a href="http://www.idnworld.com/" title="Open IdN's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/idnworld.com']);">IdN</a>. (2005)<br />
+— "Big Calm Timeout" for MUSA Collective. (2005)<br />
+— "Multidiskplayer" for Passvite Magazine. (2003)</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Vale do Lobo kiosks</title>
+   <id>tag:joaopescada.com,2010:/projects/vale-do-lobo-kiosks/</id>
+   <updated>2010-11-10T09:21:13+11:00</updated>
+   <summary>These are two desktop applications I've designed and developed for touch-screen kiosks, while employed by the Vale do Lobo Resort.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/vale-do-lobo-kiosks/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/6.vale-do-lobo-kiosks/15.jpg" alt="15."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/14.jpg" alt="14."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/13.jpg" alt="13."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/12.jpg" alt="12."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/11.jpg" alt="11."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/10.jpg" alt="10."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/9.jpg" alt="9."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/8.jpg" alt="8."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/7.jpg" alt="7."/>
+  <img src="../content/1.projects/6.vale-do-lobo-kiosks/6.jpg" alt="6."/>
+
+          
+            <p>These are two desktop applications I've designed and developed for touch-screen kiosks, while employed by the <a href="http://www.valedolobo.com/" title="Open Vale do Lobo's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/valedolobo.com']);">Vale do Lobo Resort</a>.<br />
+The first is a check-in machine for the Golf Courses, to automate and speed up the process so the players can get ready for their games; and the second a promotional interactive presentation to be displayed in spots outside of the Resort.
+<br /><br />
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end and Back-end Coding.<br />
+<b>Languages:</b> Actionscript, XML, ASP.net and MS SQL.<br />
+<b>Years:</b> 2006-2007<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Vale do Lobo (.com)</title>
+   <id>tag:joaopescada.com,2010:/projects/vale-do-lobo-com/</id>
+   <updated>2010-11-10T09:24:01+11:00</updated>
+   <summary>This was the last revision of the website I've designed and developed for Vale do Lobo Resort, while employed there.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/vale-do-lobo-com/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/5.vale-do-lobo-com/12.jpg" alt="12."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/11.jpg" alt="11."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/10.jpg" alt="10."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/9.jpg" alt="9."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/8.jpg" alt="8."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/7.jpg" alt="7."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/6.jpg" alt="6."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/5.jpg" alt="5."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/4.jpg" alt="4."/>
+  <img src="../content/1.projects/5.vale-do-lobo-com/3.jpg" alt="3."/>
+
+          
+            <p>This was the last revision of the website I've designed and developed for <a href="http://www.valedolobo.com/"  title="Open Vale do Lobo's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/valedolobo.com']);">Vale do Lobo Resort</a>, while employed there.
+<br /><br />
+<span class="details">
+<b>Roles:</b> Information Architecture, Content Strategy, Interface Design, Front-end and Back-end coding.<br />
+<b>Languages:</b> HTML/XHTML, CSS, Javascript, Actionscript, XML, ASP, ASP.net, MS SQL.<br />
+<b>Year:</b> 2007<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Miguel Praia (.com)</title>
+   <id>tag:joaopescada.com,2010:/projects/miguel-praia-com/</id>
+   <updated>2010-11-10T08:29:47+11:00</updated>
+   <summary>A few iterations I've made throughout the years for the website of Miguel Praia.</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/miguel-praia-com/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/4.miguel-praia-com/12.jpg" alt="12."/>
+  <img src="../content/1.projects/4.miguel-praia-com/11.jpg" alt="11."/>
+  <img src="../content/1.projects/4.miguel-praia-com/10.jpg" alt="10."/>
+  <img src="../content/1.projects/4.miguel-praia-com/9.jpg" alt="9."/>
+  <img src="../content/1.projects/4.miguel-praia-com/8.jpg" alt="8."/>
+  <img src="../content/1.projects/4.miguel-praia-com/7.jpg" alt="7."/>
+  <img src="../content/1.projects/4.miguel-praia-com/6.jpg" alt="6."/>
+  <img src="../content/1.projects/4.miguel-praia-com/5.jpg" alt="5."/>
+  <img src="../content/1.projects/4.miguel-praia-com/4.jpg" alt="4."/>
+  <img src="../content/1.projects/4.miguel-praia-com/3.jpg" alt="3."/>
+  <img src="../content/1.projects/4.miguel-praia-com/2.jpg" alt="2."/>
+  <img src="../content/1.projects/4.miguel-praia-com/1.jpg" alt="1."/>
+
+          
+            <p>A few iterations I've made throughout the years for the website of <a href="http://www.miguel-praia.com/" title="Open Miguel Praia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/miguel-praia.com']);">Miguel Praia</a>.<br />
+The screenshots are sorted from most recent to oldest version (from 2006 to 2003).
+<br /><br />
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Front-end and Back-end Coding.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, MS SQL.<br />
+<b>Years:</b> 2003-2006<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Miguel Praia WSBK'04</title>
+   <id>tag:joaopescada.com,2010:/projects/miguel-praia-wsbk-04/</id>
+   <updated>2010-11-10T08:31:03+11:00</updated>
+   <summary>An interactive Sponsorship Proposal to get the rider Miguel Praia a team for the 2004 season of the Superbike World Championship. Not only the presentation, but also the cd and case decorations were produced "in-house".</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/miguel-praia-wsbk-04/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/3.miguel-praia-wsbk-04/9.jpg" alt="9."/>
+  <img src="../content/1.projects/3.miguel-praia-wsbk-04/8.jpg" alt="8."/>
+  <img src="../content/1.projects/3.miguel-praia-wsbk-04/7.jpg" alt="7."/>
+  <img src="../content/1.projects/3.miguel-praia-wsbk-04/6.jpg" alt="6."/>
+  <img src="../content/1.projects/3.miguel-praia-wsbk-04/5.jpg" alt="5."/>
+  <img src="../content/1.projects/3.miguel-praia-wsbk-04/4.jpg" alt="4."/>
+  <img src="../content/1.projects/3.miguel-praia-wsbk-04/3.jpg" alt="3."/>
+
+          
+            <p>An interactive Sponsorship Proposal to get the rider <a href="http://www.miguel-praia.com/" title="Open Miguel Praia's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/miguel-praia.com']);">Miguel Praia</a> a team for the 2004 season of the <a href="http://www.worldsbk.com/" title="Open Superbike World Championship's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/worldsbk.com']);">Superbike World Championship</a>.<br />
+Not only the presentation, but also the cd and case decorations were produced "in-house".
+<br /><br />
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Graphic Design, Front-end Coding.<br />
+<b>Languages:</b> Actionscript, XML.<br />
+<b>Year:</b> 2004<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Once Online Projects</title>
+   <id>tag:joaopescada.com,2010:/projects/once-online-projects/</id>
+   <updated>2010-11-10T08:32:53+11:00</updated>
+   <summary>These are projects that, once upon a time, were online. Then future happened and went offline or were updated to something entirelly different (that I had nothing to do with).</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/once-online-projects/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/2.once-online-projects/18.jpg" alt="18."/>
+  <img src="../content/1.projects/2.once-online-projects/17.jpg" alt="17."/>
+  <img src="../content/1.projects/2.once-online-projects/16.jpg" alt="16."/>
+  <img src="../content/1.projects/2.once-online-projects/15.jpg" alt="15."/>
+  <img src="../content/1.projects/2.once-online-projects/14.jpg" alt="14."/>
+  <img src="../content/1.projects/2.once-online-projects/13.jpg" alt="13."/>
+  <img src="../content/1.projects/2.once-online-projects/12.jpg" alt="12."/>
+  <img src="../content/1.projects/2.once-online-projects/11.jpg" alt="11."/>
+  <img src="../content/1.projects/2.once-online-projects/10.jpg" alt="10."/>
+  <img src="../content/1.projects/2.once-online-projects/9.jpg" alt="9."/>
+  <img src="../content/1.projects/2.once-online-projects/8.jpg" alt="8."/>
+  <img src="../content/1.projects/2.once-online-projects/7.jpg" alt="7."/>
+  <img src="../content/1.projects/2.once-online-projects/6.jpg" alt="6."/>
+  <img src="../content/1.projects/2.once-online-projects/5.jpg" alt="5."/>
+  <img src="../content/1.projects/2.once-online-projects/4.jpg" alt="4."/>
+  <img src="../content/1.projects/2.once-online-projects/3.jpg" alt="3."/>
+  <img src="../content/1.projects/2.once-online-projects/2.jpg" alt="2."/>
+  <img src="../content/1.projects/2.once-online-projects/1.jpg" alt="1."/>
+
+          
+            <p>These are projects that, once upon a time, were online. Then future happened and went offline or were updated to something entirelly different (that I had nothing to do with):<br />
+— Cris Piessens Clinic: website for a dental clinic. (2006)<br />
+— Lazer Wireless: login interface for an Internet Access Point. (2006)<br />
+— Volare Mundia: two websites, one for a travel agency and another for the agency's customers club. (2005)<br />
+— Blue Pixel: logo, icons, type and website for an Internet Service Provider. (2005)
+<br /><br />
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end and Back-end Coding.<br />
+<b>Languages:</b> HTML/XHTML, CSS, Javascript, PHP, ASP, MS SQL.<br />
+<b>Years:</b> 2005-2006<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Never Online Projects</title>
+   <id>tag:joaopescada.com,2010:/projects/never-online-projects/</id>
+   <updated>2010-11-10T08:33:03+11:00</updated>
+   <summary>These are projects that, for one reason or another (or a gazillion of them), never got the chance of taking their first steps on the internets (or got there, but never started running).</summary>
+   <link rel="alternate" type="text/html" href="http://joaopescada.com/projects/never-online-projects/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/1.projects/1.never-online-projects/11.jpg" alt="11."/>
+  <img src="../content/1.projects/1.never-online-projects/10.jpg" alt="10."/>
+  <img src="../content/1.projects/1.never-online-projects/9.jpg" alt="9."/>
+  <img src="../content/1.projects/1.never-online-projects/8.jpg" alt="8."/>
+  <img src="../content/1.projects/1.never-online-projects/7.jpg" alt="7."/>
+  <img src="../content/1.projects/1.never-online-projects/6.jpg" alt="6."/>
+  <img src="../content/1.projects/1.never-online-projects/5.jpg" alt="5."/>
+  <img src="../content/1.projects/1.never-online-projects/4.jpg" alt="4."/>
+  <img src="../content/1.projects/1.never-online-projects/3.jpg" alt="3."/>
+  <img src="../content/1.projects/1.never-online-projects/2.jpg" alt="2."/>
+  <img src="../content/1.projects/1.never-online-projects/1.jpg" alt="1."/>
+
+          
+            <p>These are projects that, for one reason or another (or a gazillion of them), never got the chance of taking their first steps on the internets (or got there, but never started running):<br />
+— White Willow Wear: an online store for a clothing brand. (2009)<br />
+— Stays 'R' Us: a searchable directory of accommodation rentals. (2007)<br />
+— Pandacar: a website for a Car Rental company. (2007)<br />
+— PTGate: a news blog as a temporary website. (2006)<br />
+— MRG: two website proposals for an engineering and construction company. (2005)
+<br /><br />
+<span class="details">
+<b>Roles:</b> Information Architecture, Interface Design, Front-end and Back-end Coding.<br />
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP, PHP, MS SQL, MySQL.<br />
+<b>Years:</b> 2005-2009<br />
+</span></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+
+</feed>
+<!-- Stacey(2.2.1): 06986575ada16a32e1a538a317327164 -->

@@ -1,0 +1,28 @@
+title: Volta ao Mundo
+-
+date: 2008
+-
+meta_description: An online quiz contest about the Star Alliance that offered the winner a trip around the world.
+-
+page_description: An online quiz contest about the Star Alliance that offered the winner a trip around the world.
+-
+content: 
+An online quiz contest about the <a href="http://www.staralliance.com" title="Open Star Alliance's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/staralliance.com']);">Star Alliance</a> that offered the winner a trip around the world.
+<br>
+<br> 
+<span class="details">
+<b>Roles:</b> Flash Coding.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP.net, MS SQL.<br>
+<b>Year:</b> 2009<br>
+</span>
+<br>
+<b>Demo URL:</b> <a href="http://demo.joaopescada.com/volta-ao-mundo-star-alliance" title="Open Volta ao Mundo Star Alliance's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/volta-ao-mundo-star-alliance']);">http://demo.joaopescada.com/volta-ao-mundo-star-alliance</a>
+-
+credits:
+<b>Credits:</b><br>
+Design by <a href="http://www.linkedin.com/in/davidcarvalho/" title="Open David Carvalho's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_davidcarvalho']);">David Carvalho</a>.<br> 
+No-plugin page coded by <a href="http://www.linkedin.com/in/vitorazevedo/" title="Open Vitor Azevedo's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_vitorazevedo']);">Vitor Azevedo</a>.<br>
+Back-end Coding by <a href="http://www.joaocampos.com" title="Open João Campos' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/joaocampos.com']);">João Campos</a>.<br>
+Sound by <a href="http://www.linkedin.com/pub/jean-pierre-santos/16/582/224/" title="Open Jean-Pierre Santos's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_jeanpierresantos']);">Jean-Pierre Santos</a>.<br>
+<br>
+©2008 <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>

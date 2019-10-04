@@ -1,0 +1,10 @@
+name: João Pescada
+-
+profession: Interactive Developer
+-
+email: 
+<hello@joaopescada.com>
+-
+meta_description: I'm João Pescada, an Interactive Developer in Lisbon, Portugal.
+-
+meta_keywords: joao pescada, pescada, jpscd, web design, digital media, flash developer, interactive developer, web developer, html5, javascript, lisbon, lisboa, albufeira, algarve, portugal, digitalevo, dsgnplug

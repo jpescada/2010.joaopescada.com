@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>About — João Pescada | Portfolio</title>
+		<meta name="robots" content="all,index,follow">
+		<meta name="description" content="I'm João Pescada, an Interactive Developer in Lisbon, Portugal.">
+		<meta name="keywords" content="joao pescada, pescada, jpscd, web design, digital media, flash developer, interactive developer, web developer, html5, javascript, lisbon, lisboa, albufeira, algarve, portugal, digitalevo, dsgnplug">
+		<meta name="completed-date" content="11/09/2010">
+		<meta name="revision-date" content="11/09/2010">
+		<meta name="revision-version" content="1.00.00">
+		<link rel="openid.server" href="http://openid.joaopescada.com/">
+		<link rel="openid.delegate" href="http://openid.joaopescada.com/">
+		<link rel="pavatar" href="http://openid.joaopescada.com/pavatar.png">
+		<link rel="shortcut icon" href="../public/images/favicon.gif" type="image/gif">
+		<link rel="alternate" type="application/atom+xml" href="../feed/">
+		<link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen">
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-1950548-2']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col logo">
+				<a href="../"><img src="../public/images/logo.gif" width="84" height="84" alt="João Pescada" title="João Pescada"></a>
+			</h1>
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+	<li><em>— Projects</em></li>
+ 		<li>
+ 		<a href="../projects/zippy-games/" title="Zippy games">Zippy games</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/opel-astra-2010-adverts/" title="Opel Astra 2010 adverts">Opel Astra 2010 adverts</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/oonique-candles/" title="Oonique Candles">Oonique Candles</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/augmented-reality-demos/" title="Augmented Reality demos">Augmented Reality demos</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/casinos-de-angola/" title="Casinos de Angola">Casinos de Angola</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/mais-que-um-sapato/" title="Mais Que Um Sapato">Mais Que Um Sapato</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/galp-tangerina-manual/" title="Galp Tangerina Manual">Galp Tangerina Manual</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/volta-ao-mundo/" title="Volta ao Mundo">Volta ao Mundo</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/graphic-design-ventures/" title="Graphic Design ventures">Graphic Design ventures</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/grao-vasco/" title="Grão Vasco">Grão Vasco</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/datafax/" title="DataFax">DataFax</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/illustrations/" title="Illustrations">Illustrations</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/vale-do-lobo-kiosks/" title="Vale do Lobo kiosks">Vale do Lobo kiosks</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/vale-do-lobo-com/" title="Vale do Lobo (.com)">Vale do Lobo (.com)</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/miguel-praia-com/" title="Miguel Praia (.com)">Miguel Praia (.com)</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/miguel-praia-wsbk-04/" title="Miguel Praia WSBK'04">Miguel Praia WSBK'04</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/once-online-projects/" title="Once Online Projects">Once Online Projects</a> 
+		
+		
+	</li>	<li>
+ 		<a href="../projects/never-online-projects/" title="Never Online Projects">Never Online Projects</a> 
+		
+		
+	</li>
+	<li><em>— By the way</em></li>
+		<li><a href="../about/" title="About">About</a></li>
+	
+		<li><a href="../contacts/" title="Contacts">Contacts</a></li>
+	
+</ul>
+</div>
+			<div id="content" class="col eight">
+				<!--<p class="date col one">&para;</p>-->
+				<div class="description col six">
+					<h2>Hello!</h2>
+
+<p>My name's João Pescada. I'm an Interactive Developer in Lisbon, Portugal.</p>
+
+<p>Currently I'm working at <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>, awarded Digital Agency of the Year in 2007, 2008 and 2009 by <a href="http://www.clubecriativos.com/" title="Open Clube de Criativos' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/clubecriativos.com']);">Clube de Criativos de Portugal</a>.</p>
+
+<p>For the last 8 years of my life, I've been working as a designer and a developer for digital media, for clients like Algarve Convention Bureau, Casinos de Angola, Datafax, Dom Pedro Hotéis, Galp Energia, Grão Vasco vinhos, Miguel Praia, Oon Solutions, Parkalgar, RE/MAX, SATA, Star Alliance, TAP, Timex, Vale do Lobo and Zippy, among others.</p>
+
+<p>Occasionally, I publish some thoughts on my <a href="http://blog.joaopescada.com/" title="Open My Blog" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/Blog']);">blog</a>. Feel free to leave your feedback. :)</p>
+
+<p>In order to give back to the developers' community what I've been taking for a lot of years, I started sharing source code at my <a href="http://github.com/jpescada" title="Open My GitHub" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/GitHub']);">GitHub</a> account.</p>
+
+<p>Most of the time, I'm available for freelance work. Just drop me an <a href="mailto:hi@joaopescada.com" title="Send e-mail" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/Email']);">e-mail</a>.</p>
+
+<p><br></p>
+
+					
+	<h3>Skills and alike</h3>
+ 
+
+<div class="skills col">
+	<h4>Apps / Tools</h4>
+
+<p>&middot; Flash <span class="level5"></span><br>
+&middot; Dreamweaver <span class="level3"></span><br>
+&middot; Textmate <span class="level4"></span><br>
+&middot; Flex / Flash Builder <span class="level4"></span><br>
+&middot; Eclipse / FDT <span class="level3"></span><br>
+&middot; Photoshop <span class="level3"></span><br>
+&middot; Fireworks <span class="level5"></span><br>
+&middot; Illustrator <span class="level3"></span><br>
+&middot; Freehand <span class="level4"></span><br>
+&middot; Aptana Studio <span class="level4"></span><br>
+&middot; Transmit <span class="level5"></span><br>
+&middot; Evernote <span class="level5"></span><br>
+&middot; iTunes :) <span class="level5"></span><br>
+<br></p>
+
+</div>
+
+<div class="skills col">
+	<h4>Computer Languages</h4>
+
+<p>&middot; Actionscript <span class="level5"></span><br>
+&middot; Javascript <span class="level3"></span><br>
+&middot; CSS <span class="level4"></span><br>
+&middot; XML <span class="level4"></span><br>
+&middot; HTML / XHTML <span class="level4"></span><br>
+&middot; PHP <span class="level2"></span><br>
+&middot; ASP VBScript <span class="level4"></span><br>
+&middot; MS SQL <span class="level3"></span><br>
+&middot; Ruby on Rails <span class="level1"></span><br>
+&middot; Objective-C <span class="level1"></span><br>
+<br></p>
+
+</div>
+
+<div class="skills col">
+	<h4>Human Languages</h4>
+
+<p>&middot; Portuguese <span class="level5"></span><br>
+&middot; English <span class="level4"></span><br>
+&middot; French <span class="level2"></span><br>
+&middot; Spanish <span class="level1"></span><br>
+&middot; Algarvian :) <span class="level5"></span><br>
+<br></p>
+
+</div>
+
+<hr class="clear">
+<div class="skills col">
+	<h4>Using Actionscript</h4>
+
+<p>&middot; PureMVC <span class="level4"></span><br>
+&middot; Papervision3D <span class="level3"></span><br>
+&middot; JigLib <span class="level3"></span><br>
+&middot; FLARToolkit <span class="level4"></span><br>
+&middot; SomaMVC <span class="level2"></span><br>
+&middot; Robotlegs <span class="level2"></span><br>
+&middot; Flint Particle System <span class="level4"></span><br>
+&middot; Stardust Particle Engine <span class="level2"></span><br>
+&middot; CASA Lib <span class="level2"></span><br>
+&middot; TweenLite <span class="level4"></span><br>
+&middot; Google Analytics API <span class="level4"></span><br>
+&middot; Flickr Lib <span class="level2"></span><br>
+&middot; Bulk-Loader <span class="level3"></span><br>
+&middot; Tweener <span class="level4"></span><br>
+<br></p>
+
+</div>
+
+<div class="skills col">
+	<h4>Using Javascript</h4>
+
+<p>&middot; jQuery <span class="level3"></span><br>
+&middot; Ext JS <span class="level1"></span><br>
+&middot; SWFObject <span class="level5"></span><br>
+&middot; SWFAddress <span class="level5"></span><br>
+&middot; Facebook Connect API <span class="level3"></span><br>
+&middot; cufón <span class="level5"></span><br>
+&middot; Google Analytics API <span class="level4"></span><br>
+&middot; Google Fonts API <span class="level4"></span><br>
+&middot; Typeface.js <span class="level3"></span><br>
+&middot; sIFR <span class="level5"></span><br>
+<br></p>
+
+</div>
+
+
+					<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+				</div>
+			</div>
+			<!--<hr>
+			<p id="footer" class="col six">&copy; 2002-2010 <a class="atom-rss" href="../feed/">RSS</a></p>-->
+		</div>
+		<script src="http://www.google.com/jsapi?key=ABQIAAAA03rE_1PHpkXaVcG5DSawUBS0ryPLjKM1aU8pbmA-bfDFgfQ8_hTioFrPjp1QXeOdf4w9Wpcwe-D2Qg" type="text/javascript"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+		<script src="../public/docs/js/global.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
+<!-- Stacey(2.2.1): 06986575ada16a32e1a538a317327164 -->

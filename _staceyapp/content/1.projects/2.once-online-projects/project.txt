@@ -1,0 +1,20 @@
+title: Once Online Projects
+-
+date: 2005-2006
+-
+meta_description: These are projects that, once upon a time, were online. Then future happened and went offline or were updated to something entirelly different (that I had nothing to do with).
+-
+page_description: These are projects that, once upon a time, were online. Then future happened and went offline or were updated to something entirelly different (that I had nothing to do with).
+-
+content: 
+These are projects that, once upon a time, were online. Then future happened and went offline or were updated to something entirelly different (that I had nothing to do with):<br>
+— Cris Piessens Clinic: website for a dental clinic. (2006)<br>
+— Lazer Wireless: login interface for an Internet Access Point. (2006)<br>
+— Volare Mundia: two websites, one for a travel agency and another for the agency's customers club. (2005)<br>
+— Blue Pixel: logo, icons, type and website for an Internet Service Provider. (2005)
+<br><br>
+<span class="details">
+<b>Roles:</b> Interface Design, Front-end and Back-end Coding.<br>
+<b>Languages:</b> HTML/XHTML, CSS, Javascript, PHP, ASP, MS SQL.<br>
+<b>Years:</b> 2005-2006<br>
+</span>

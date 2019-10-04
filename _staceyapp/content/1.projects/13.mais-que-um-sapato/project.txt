@@ -1,0 +1,28 @@
+title: Mais Que Um Sapato
+-
+date: 2009
+-
+meta_description: An online auction of the shoes used by Nelson Évora on the triple jump that got him the gold medal in the Beijing Olympic Games. The money raised went for Djunta Mon, a charity project helping children in Cape Verde.
+-
+page_description: An online auction of the shoes used by Nelson Évora on the triple jump that got him the gold medal in the Beijing Olympic Games. The money raised went for Djunta Mon, a charity project helping children in Cape Verde.
+-
+content: 
+An online auction of the shoes used by Nelson Évora on the triple jump that got him the gold medal in the Beijing Olympic Games. The money raised went for Djunta Mon, a charity project helping children in Cape Verde. 
+<br>
+<br> 
+<span class="details">
+<b>Roles:</b> Flash Coding.<br>
+<b>Languages:</b> XHTML, CSS, Javascript, Actionscript, XML, ASP.net, MS SQL.<br>
+<b>Year:</b> 2009<br>
+</span>
+<br>
+<b>URL:</b> <a href="http://www.maisqueumsapato.com" title="Mais Que Um Sapato's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/maisqueumsapato.com']);">http://www.maisqueumsapato.com</a>
+-
+credits:
+<b>Credits:</b><br>
+Design by <a href="http://www.linkedin.com/in/davidcarvalho/" title="Open David Carvalho's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_davidcarvalho']);">David Carvalho</a>.<br> 
+No-plugin page coded by <a href="http://www.linkedin.com/in/vitorazevedo/" title="Open Vitor Azevedo's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_vitorazevedo']);">Vitor Azevedo</a>.<br>
+Back-end Coding by <a href="http://www.linkedin.com/in/luismiguelpereira/" title="Open Luis Pereira's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_luismiguelpereira']);">Luis Pereira</a>.<br>
+Video and VFX by <a href="http://www.carlosguedes.net/" title="Open Carlos Guedes's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/carlosguedes.net']);">Carlos Guedes</a>.<br>
+<br>
+©2009 <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>

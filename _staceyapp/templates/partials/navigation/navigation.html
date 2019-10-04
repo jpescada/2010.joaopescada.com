@@ -1,0 +1,26 @@
+<div id="navigation" class="col three">
+<ul>
+foreach $root do
+ 	<li><em>— @title</em></li>
+ 	foreach $children do
+ 	<li>
+ 		if !$children do <a href="@url" title="@title">@title</a> endif
+		
+		if $children do 
+			@title
+			foreach $children do
+	 		<li><a href="@url" title="@title">@title</a></li>
+			endforeach
+		endif
+	</li>
+	endforeach
+endforeach
+	<li><em>— By the way</em></li>
+	get "/about" do
+	<li><a href="@url" title="@title">@title</a></li>
+	end
+	get "/contacts" do
+	<li><a href="@url" title="@title">@title</a></li>
+	end
+</ul>
+</div>

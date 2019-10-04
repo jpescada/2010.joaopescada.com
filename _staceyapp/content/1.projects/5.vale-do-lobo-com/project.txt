@@ -1,0 +1,24 @@
+title: Vale do Lobo (.com)
+-
+date: 2007
+-
+meta_description: This was the last revision of the website I've designed and developed for Vale do Lobo Resort, while employed there.
+-
+page_description: This was the last revision of the website I've designed and developed for Vale do Lobo Resort, while employed there.
+-
+content: 
+This was the last revision of the website I've designed and developed for <a href="http://www.valedolobo.com/"  title="Open Vale do Lobo's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/valedolobo.com']);">Vale do Lobo Resort</a>, while employed there.
+<br><br>
+<span class="details">
+<b>Roles:</b> Information Architecture, Content Strategy, Interface Design, Front-end and Back-end coding.<br>
+<b>Languages:</b> HTML/XHTML, CSS, Javascript, Actionscript, XML, ASP, ASP.net, MS SQL.<br>
+<b>Year:</b> 2007<br>
+</span>
+-
+credits:
+<b>Credits:</b><br>
+Project Direction by <a href="http://www.linkedin.com/pub/alda-filipe/1/7a0/702/" title="Open Alda Filipe's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_aldafilipe']);">Alda Filipe</a>.<br>
+Technical Direction by <a href="http://www.linkedin.com/pub/paulo-barbosa/15/3aa/230/" title="Open Paulo Barbosa's LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_paulobarbosa']);">Paulo Barbosa</a>.<br>
+Photography by <a href="http://www.linkedin.com/in/ldjmarcelo" title="Open Marcelo Lopes' LinkedIn profile" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/linkedin_marcelolopes']);">Marcelo Lopes</a>.<br>
+<br>
+©2007 <a href="http://www.valedolobo.com/" title="Open Vale do Lobo's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/valedolobo.com']);">Vale do Lobo</a>

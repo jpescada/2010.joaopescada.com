@@ -1,0 +1,94 @@
+title: About
+-
+content: 
+<h2>Hello!</h2>
+
+My name's João Pescada. I'm an Interactive Developer in Lisbon, Portugal.
+
+Currently I'm working at <a href="http://www.view.pt/" title="Open VIEW's website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/view.pt']);">VIEW</a>, awarded Digital Agency of the Year in 2007, 2008 and 2009 by <a href="http://www.clubecriativos.com/" title="Open Clube de Criativos' website" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/clubecriativos.com']);">Clube de Criativos de Portugal</a>.
+
+For the last 8 years of my life, I've been working as a designer and a developer for digital media, for clients like Algarve Convention Bureau, Casinos de Angola, Datafax, Dom Pedro Hotéis, Galp Energia, Grão Vasco vinhos, Miguel Praia, Oon Solutions, Parkalgar, RE/MAX, SATA, Star Alliance, TAP, Timex, Vale do Lobo and Zippy, among others.
+
+Occasionally, I publish some thoughts on my <a href="http://blog.joaopescada.com/" title="Open My Blog" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/Blog']);">blog</a>. Feel free to leave your feedback. :)
+
+In order to give back to the developers' community what I've been taking for a lot of years, I started sharing source code at my <a href="http://github.com/jpescada" title="Open My GitHub" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/GitHub']);">GitHub</a> account.
+
+Most of the time, I'm available for freelance work. Just drop me an <a href="mailto:hi@joaopescada.com" title="Send e-mail" onclick="javascript:_gaq.push(['_trackPageview', '/goOut/Email']);">e-mail</a>.
+
+<br>
+
+-
+extra_columns_title:
+<h3>Skills and alike</h3>
+-
+extra_column1:
+<h4>Apps / Tools</h4>
+&middot; Flash <span class="level5"></span><br>
+&middot; Dreamweaver <span class="level3"></span><br>
+&middot; Textmate <span class="level4"></span><br>
+&middot; Flex / Flash Builder <span class="level4"></span><br>
+&middot; Eclipse / FDT <span class="level3"></span><br>
+&middot; Photoshop <span class="level3"></span><br>
+&middot; Fireworks <span class="level5"></span><br>
+&middot; Illustrator <span class="level3"></span><br>
+&middot; Freehand <span class="level4"></span><br>
+&middot; Aptana Studio <span class="level4"></span><br>
+&middot; Transmit <span class="level5"></span><br>
+&middot; Evernote <span class="level5"></span><br>
+&middot; iTunes :) <span class="level5"></span><br>
+<br>
+-
+extra_column2:
+<h4>Computer Languages</h4>
+&middot; Actionscript <span class="level5"></span><br>
+&middot; Javascript <span class="level3"></span><br>
+&middot; CSS <span class="level4"></span><br>
+&middot; XML <span class="level4"></span><br>
+&middot; HTML / XHTML <span class="level4"></span><br>
+&middot; PHP <span class="level2"></span><br>
+&middot; ASP VBScript <span class="level4"></span><br>
+&middot; MS SQL <span class="level3"></span><br>
+&middot; Ruby on Rails <span class="level1"></span><br>
+&middot; Objective-C <span class="level1"></span><br>
+<br>
+-
+extra_column3:
+<h4>Human Languages</h4>
+&middot; Portuguese <span class="level5"></span><br>
+&middot; English <span class="level4"></span><br>
+&middot; French <span class="level2"></span><br>
+&middot; Spanish <span class="level1"></span><br>
+&middot; Algarvian :) <span class="level5"></span><br>
+<br>
+-
+extra_column4:
+<h4>Using Actionscript</h4>
+&middot; PureMVC <span class="level4"></span><br>
+&middot; Papervision3D <span class="level3"></span><br>
+&middot; JigLib <span class="level3"></span><br>
+&middot; FLARToolkit <span class="level4"></span><br>
+&middot; SomaMVC <span class="level2"></span><br>
+&middot; Robotlegs <span class="level2"></span><br>
+&middot; Flint Particle System <span class="level4"></span><br>
+&middot; Stardust Particle Engine <span class="level2"></span><br>
+&middot; CASA Lib <span class="level2"></span><br>
+&middot; TweenLite <span class="level4"></span><br>
+&middot; Google Analytics API <span class="level4"></span><br>
+&middot; Flickr Lib <span class="level2"></span><br>
+&middot; Bulk-Loader <span class="level3"></span><br>
+&middot; Tweener <span class="level4"></span><br>
+<br>
+-
+extra_column5:
+<h4>Using Javascript</h4>
+&middot; jQuery <span class="level3"></span><br>
+&middot; Ext JS <span class="level1"></span><br>
+&middot; SWFObject <span class="level5"></span><br>
+&middot; SWFAddress <span class="level5"></span><br>
+&middot; Facebook Connect API <span class="level3"></span><br>
+&middot; cufón <span class="level5"></span><br>
+&middot; Google Analytics API <span class="level4"></span><br>
+&middot; Google Fonts API <span class="level4"></span><br>
+&middot; Typeface.js <span class="level3"></span><br>
+&middot; sIFR <span class="level5"></span><br>
+<br>
